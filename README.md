@@ -21,7 +21,7 @@ Answer real business questions using structured SQL queries — from identifying
 
 ## 🗃️ Database Schema (ERD)
 
-<img src="MusicDatabaseSchema.png" width="700"/>
+<img src="MusicDatabaseSchema.png" width="500"/>
 
 The database consists of **11 tables** covering the full music store ecosystem:
 
