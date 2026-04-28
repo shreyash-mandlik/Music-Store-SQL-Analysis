@@ -21,7 +21,7 @@ Answer real business questions using structured SQL queries — from identifying
 
 ## 🗃️ Database Schema (ERD)
 
-<img src="MusicDatabaseSchema.png" width="500"/>
+<img src="MusicDatabaseSchema.png" width="700"/>
 
 The database consists of **11 tables** covering the full music store ecosystem:
 
@@ -57,15 +57,18 @@ The database consists of **11 tables** covering the full music store ecosystem:
 
 ## 📸 Sample Outputs
 
-> Screenshots will be added here. Suggested placements:
-> - Best customer by total spending<img width="800" height="400" alt="1" src="https://github.com/user-attachments/assets/6fb4688a-cb1d-4411-9db3-ad565c19f264" />
+> - Best customer by total spending <img width="800" height="400" alt="1" src="https://github.com/user-attachments/assets/6fb4688a-cb1d-4411-9db3-ad565c19f264" />
 
-> - ✅ Easy: City with highest revenue
-> - ✅ Moderate: Top 10 rock artists
-> - ✅ Advanced: Most popular genre per country (CTE)
-> - ✅ Advanced: Top spending customer per country
+> - City with highest revenue <img width="800" height="400" alt="2" src="https://github.com/user-attachments/assets/2e82fd6a-64b5-4ac7-b4a0-25b4f655dc67" />
 
-*Replace the above with actual query result screenshots from pgAdmin / VS Code SQLTools.*
+> - Top 10 rock artists <img width="800" height="400" alt="3" src="https://github.com/user-attachments/assets/9d4e1056-4e95-4c3d-b59a-6fc44f18af87" />
+
+> - Most popular genre per country (CTE) <img width="800" height="400" alt="4" src="https://github.com/user-attachments/assets/c7e888d1-c0c7-4481-ab32-89825c91a1cc" />
+
+> - Top spending customer per country <img width="800" height="400" alt="5" src="https://github.com/user-attachments/assets/3942b49d-5885-41ec-9e7f-7d674ee6c5ce" />
+
+
+
 
 ---
 
