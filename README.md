@@ -58,7 +58,7 @@ The database consists of **11 tables** covering the full music store ecosystem:
 ## 📸 Sample Outputs
 
 > Screenshots will be added here. Suggested placements:
-> - Best customer by total spending<img width="1000" height="500" alt="1" src="https://github.com/user-attachments/assets/6fb4688a-cb1d-4411-9db3-ad565c19f264" />
+> - Best customer by total spending<img width="800" height="400" alt="1" src="https://github.com/user-attachments/assets/6fb4688a-cb1d-4411-9db3-ad565c19f264" />
 
 > - ✅ Easy: City with highest revenue
 > - ✅ Moderate: Top 10 rock artists
